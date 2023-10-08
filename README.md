@@ -1,5 +1,5 @@
 # Lyrical-cover-of-Tum-hi-ho-
-This is the cover song of the original song "Tum hi ho" by Arijit Singh
+### This is the cover song of the original song "Tum hi ho" by Arijit Singh
 
 You're the light that guides my way,
 
